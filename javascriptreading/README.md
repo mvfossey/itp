@@ -1,0 +1,10 @@
+# JavaScript Reading Reflection
+##### by Mila Fossey
+
+Throughout my reading of this article, I was very pleasantly surprised by how comfortable I was following it. I recognized many terms and understood where the author was going when naming different coding concepts.
+
+When reading Chapter 1 "Values, Types, and Operators", I already knew that "To create a value you merely invoke its name". I was also familiar with what Binary language was, through middle school, high school, and Control Systems where we had to know MIDI messages. In our last class, I learned that the '%' signal is named 'modulo', which I did not know previously. Something else mentioned in this chapter is the concept of NaN (Not a Number), which symbolizes a floating point value in coding to represent an unidentifieable, or undefined number, which can happen when the term 'infinity' is used. A computer does not know what 'infinity' means. I also did not know what the word 'Ternary' meant, which means three values like Binary means two values. 
+
+In Chapter 2 "Program Structure", I already knew that "A fragment of code that produces a value is called an expression". I had not learned about 'Bindings' before, where a library written in one programming language can be used in another, or how they "can be used to file pieces of data under a name, and they are useful for tracking state in your program". I also did not know about the different ways to write loops.
+
+In Chapter 3 "Functions", I already knew that you could replace certain symbols with word translations, like writing 'minus' instead of '-'. I did not know that "Bindings declared with let and const are in fact local to the block in which they are declared, so if you create one of those inside of a loop, the code before and after the loop cannot “see” it". I also did not know about 'Lexical Scoping', which points to the accessibility of functions being determined because of their physical location.
