@@ -2,11 +2,11 @@
 #### by Mila Fossey
 
 ### Phase 1
-
+![Phase1](Phase1.png)
 I started by designing what my drawing would be in class. I started with a crown, 3 triangles with 3 squares underneath each, but I decided to do some kind of carved pumpkin face instead. This pumpkin face is structured by 2 triangles as the eyes, one triangle as the nose, and 8 triangles on the mouth where they kep progressively inverted, and 4 out of them get inverted in order to create two diamonds. I was already bracing myself for the monstrosity of the drawing that I had created.
 
 ### Phase 2
-
+![Phase2Image](Phase2Image.png)
 To start the drawing of my pumpkin face into P5js, I followed the code along from class, and created 8 different triangles with each their own coordinates. It took me a while to be able to place everything correctly. I actually started by creating a pumpkin face that looked nothing like the one I had drawn. All the triangles were the same size, and the mouth did not have any inverted triangles. I started again, really pinpointing where each coordinate was, because I would get lost a lot. I had trouble figuring out which point was x1, y1, x2, y2, x3, y3. I think getting the drawing right might have been what took me the longest out of the entire midterm. I kept testing things out to see what would work, and try and re-try. I wanted to make different sections for each part of the face, but just ended up listing each triangle one after the other. I ended up with this code:
 function setup() {
   createCanvas(150, 150); 
@@ -28,7 +28,7 @@ function draw() {
 The construction of this code was simple, but super tedious for my drawing - lots of trial and error, but once I got the hang of it, I knew what I was doing.
 
 ### Phase 3
-
+![Phase3Image](Phase3Image.png)
 For Phase 3, I based it on the same code made for Phase 2, as well as the code along from class for Phase 3. I started by trying to figure the whole thing out myself and not looking at the code from class, leading one of my drawings to be much bigger than the other one, and put in a diagonal position, which was not the requirement. I looked at the code along from class, and used it as a template. I added in 
 function drawObject(x, y, s) {
   push();
@@ -37,7 +37,7 @@ function drawObject(x, y, s) {
   as well as pop(); at the end of the drawing, as was written in the code along, and that worked perfectly. I also changed values, and took away different statements to see what the error would show up as in P5js. I also researched the fucntions I didn't recognize in P5js.
   
 ### Phase 4
-
+![Phase4Image](Phase4Image.png)
 This Phase was super challenging for me. I approached it as if I was creating a table - which it technically is. So I built this grid for my drawing to display in a 20x20 grid. I could've written let for a lot of the statements, but I strongly prefer writing const. If the code itself isn't going to change, it feels more visually and logically pleasing to me to write const.
 I based this code off of Phase 3, so I started with that code:
 function setup() {
