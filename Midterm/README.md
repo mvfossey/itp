@@ -86,5 +86,6 @@ The last youtube video I looked at to get another idea at making a grid of a dra
 
 
 I also learned a lot of other random things through this midterm. I changed a lot fo things to figure out how stuff worked. I managed to change the background to bright pink somehow. I think the code for that was background(250, 0, 250);, so that was a fun surprise.
+![PRETTY](PRETTY.png)
 
 I had many many many syntax errors all throughout this, mainly because I would create my own functions, and forgot I would name something a certain way, and just call it something completely different later on.
