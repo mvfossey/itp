@@ -1,0 +1,15 @@
+#Python Reading
+
+#####by Mila Fossey
+
+###Chapter 1
+When starting on this reading, I wasn't too sure what to expect. Despite having heard the word Python so many times in my life, and my brother using this coding language for his passion in bioacoustics, I sincerely thought the layout of the language would look a lot more dense. I think this made me find javascript a lot more complicated. This coding language feels like a big mix between spoken language and coding language. It's legible enough for me to understand what's going on without peering on the insides of my computer. I already knew most of what was going on in each section of this chapter. I was familiar with the process of the coding language and how it works. I knew about strings and values. One of my questions is why do you have to put 3 carrots at each statement? Is that just the way it is?
+
+###Chapter 3
+In this chapter, I already knew what a 'return value' is, and how it works. It's a statement in a function that sends a value or object to the same function. But I could very well be wrong too. I did not know what dot notation was, so I learned about that. Although we used some dots in javascript and html, I wasn't aware of this being such a formal thing written out and known as dot notation. I realized I'm not thta familiar with stack diagrams as a means to visualize what is going on in code. I mean, doing modular, I see many schemas all the time, but they've never been particularly helpful for me. I think that just isn't my favorite way to visualize and understand things. I found the differentiation and explanation for the fruitful functions anf void functions extremely interesting (I think those were my favorite terms in this whole reading).
+
+###Chapter 5
+I recognized a few things going through this chapter. The Boolean statements were super familiar, but also just written out a lot more simple than javascript. I also think I'm seeing all these statements seperately, and maybe when they come together it will be a lot more overwhelming for me, but for the moment it does feel like someone cleaned up the code. I also already knew most of the operators, including the modulus. Once again, the stack diagram for recursive functions was a little tough for me to understand. I also didn't know about infinite recursion. I found that concept extremely interesting. Is that related to NaN?
+
+###Chapter 10
+This chapter spoke about listing operators, which I was equally familiar with. I was also familiar with how to list objects and values, but again, I found it so much easier. I feel like there were many times where I overcomplicated coding, and think that "Surely it's not just a comma in order to make it a list right?". And it's not, but it is as well. There were many things here that I didn't know, like 'slices' (I didn't know that start, stop, and step were slices), 'methods', the accumulator, and this chapter also helped me understand the 'pop' object more in depth.
